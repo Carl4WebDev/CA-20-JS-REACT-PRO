@@ -1,7 +1,4 @@
 
-let greenBtn = document.querySelector('.btn-green');
-let redBtn = document.querySelector('.btn-red');
-let blueBtn = document.querySelector('.btn-blue');
 
 
 function increment() {
